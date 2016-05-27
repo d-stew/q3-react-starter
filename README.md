@@ -2,7 +2,7 @@ AAC App
 =======
 ####( Augmentative and Alternative Communication )
 
-[Live Demo](https://easy-speak.herokuapp.com/)
+[Live Site](https://easy-speak.herokuapp.com/)
 
 __Install the things__
 ```bash
